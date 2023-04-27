@@ -14,8 +14,6 @@
 ![App Preview](/public/dance.png  )
 #### Football[Hobbie]
 ![App Preview](/public/football.png  )
-#### Side Card with Responsive Design
-![App Preview](/public/poke4.png )
 
 ## Contributing
 
